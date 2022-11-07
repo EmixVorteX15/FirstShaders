@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/GPC/Shaders/Pr3 Completa/Pr3.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
